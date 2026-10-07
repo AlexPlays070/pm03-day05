@@ -6,3 +6,4 @@
 
 Итоговые ссылки и решения записывайте в docs/triage.md.
 
+Описание формата данных: [docs/data-format.md](docs/data-format.md).
