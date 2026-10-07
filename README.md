@@ -5,4 +5,3 @@
 Папка templates содержит заготовки. Чтобы GitHub показал форму, перенесите выбранный YAML в .github/ISSUE_TEMPLATE и сохраните в main.
 
 Итоговые ссылки и решения записывайте в docs/triage.md.
-Описание формата данных: [docs/data-format.md](docs/data-format.md).
